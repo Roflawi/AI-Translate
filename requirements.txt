@@ -1,0 +1,4 @@
+streamlit
+deep-translator
+pyttsx3
+SpeechRecognition
